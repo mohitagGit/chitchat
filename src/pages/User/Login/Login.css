@@ -24,6 +24,11 @@
     text-align: center;
 }
 
+.footer {
+    position: absolute;
+    bottom: 0;
+}
+
 .header .app-logo img{
     transform: rotate(-35deg);
 }
