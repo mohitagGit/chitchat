@@ -13,9 +13,9 @@ Chat with other user with realtime data and updates.
 ### Technologies Used
 
 React\
-Firebase Firestore\
+Firebase Firestore: [https://firebase.google.com/](https://firebase.google.com/)\
 Firebase Authentication\
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Bootstrap 5: [https://getbootstrap.com/](https://getbootstrap.com/)
 
 
 ### `npm start`
