@@ -9,6 +9,15 @@ Real-time data updates using Firestore.
 Add, edit, and delete tasks and folders from the Firestore database.
 Chat with other user with realtime data and updates.
 
+
+### Technologies Used
+
+React\
+Firebase Firestore\
+Firebase Authentication\
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -28,13 +37,4 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 
-### Technologies Used
 
-React
-Firebase Firestore
-Firebase Authentication
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
