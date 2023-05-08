@@ -32,7 +32,7 @@ You may also see any lint errors in the console.
 <!---
 ![alt text](https://github.com/mohitagGit/chitchat/blob/main/src/img/chitchat-home.png?raw=true)
 -->
-<img src="https://github.com/mohitagGit/chitchat/blob/main/src/img/chitchat-home" width="300">
+<img src="https://github.com/mohitagGit/chitchat/blob/main/src/img/chitchat-home.png" width="300">
 
 
 ### `npm run build`
