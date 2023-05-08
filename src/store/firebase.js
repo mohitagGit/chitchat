@@ -4,14 +4,15 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
+// paste your code here
 const firebaseConfig = {
-  apiKey: "AIzaSyBXN_3y6zKLyyaCLN22btN6svinS2W-9f8",
-  authDomain: "chitchat-780fa.firebaseapp.com",
-  projectId: "chitchat-780fa",
-  storageBucket: "chitchat-780fa.appspot.com",
-  messagingSenderId: "591910380821",
-  appId: "1:591910380821:web:e1a3a600fd256919ca751c",
-  measurementId: "G-PB47RMHCFC"
+  apiKey: "AIzaSyBXN_*****************-9f8",
+  authDomain: "chitchat-******.firebaseapp.com",
+  projectId: "chitchat-****",
+  storageBucket: "chitchat-****.appspot.com",
+  messagingSenderId: "59191038****",
+  appId: "1:591910380821:web:e1a3*********6919ca751c",
+  measurementId: "G-PB47R****"
 };
 
 // Initialize Firebase
